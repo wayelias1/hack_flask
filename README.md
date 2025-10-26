@@ -1,6 +1,10 @@
 # SOCIAL OPLESK
 ### 🏴‍☠️ HACKS - BACKEND - 1
 
+## Proyecto
+**Elias Cordova**  
+*Desarrollador Full Stack*  
+
 <br/>
 
 📚 tutorial de flask - 1 [tutorial](https://towardsdatascience.com/creating-restful-apis-using-flask-and-python-655bad51b24)
